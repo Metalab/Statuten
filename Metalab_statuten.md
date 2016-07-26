@@ -1,8 +1,7 @@
-Statuten des
-VEREINS ZUR FÖRDERUNG DER ERFORSCHUNG UND BILDUNG SOZIALER UND TECHNISCHER INNOVATIONEN – „metalab“
+# Statuten des Vereins zur Förderung der Erforschung und Bildung sozialer und technischer Innovationen - „metalab“
 
 
-§ 1: Name, Sitz und Tätigkeitsbereich
+## § 1: Name, Sitz und Tätigkeitsbereich
 
 (1) Der Verein führt den Namen „Verein zur Förderung der Erforschung und Bildung sozialer und technischer Innovationen – metalab“.
 
@@ -11,7 +10,7 @@ VEREINS ZUR FÖRDERUNG DER ERFORSCHUNG UND BILDUNG SOZIALER UND TECHNISCHER INN
 (3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
 
 
-§ 2: Zweck
+## § 2: Zweck
 
 (1) Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Förderung der Allgemeinheit auf dem Gebiet von Kunst, Wissenschaft und Forschung.
 
@@ -22,7 +21,7 @@ VEREINS ZUR FÖRDERUNG DER ERFORSCHUNG UND BILDUNG SOZIALER UND TECHNISCHER INN
 • in diesem Rahmen die Förderung von Jugendlichen bei kreativer Selbstverwirklichung besonders im Bereich Wissenschaft und Forschung sowie die Förderung experimenteller und theoretischer Erforschung der Auswirkungen kreativproduktiver Freiräume auf den urbanen Raum.
 
 
-§ 3: Mittel zur Erreichung des Vereinszwecks
+## § 3: Mittel zur Erreichung des Vereinszwecks
 
 (1) Der Vereinszweck soll durch die in den Abs. 2 und 3 angeführten ideellen und materiellen Mittel erreicht werden.
 
@@ -42,14 +41,14 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technis
 	(h) Führung von Unternehmen
 
 
-§ 4: Arten der Mitgliedschaft
+## § 4: Arten der Mitgliedschaft
 
 (1) Die Mitglieder des Vereins gliedern sich in ordentliche und fördernde Mitglieder sowie Ehrenmitglieder.
 
 (2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Fördernde Mitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags fördern. Ehrenmitglieder sind Personen, die hierzu wegen besonderer Verdienste um den Verein dazu ernannt werden.
 
 
-§ 5: Erwerb der Mitgliedschaft
+## § 5: Erwerb der Mitgliedschaft
 
 (1) Ordentliche Mitglieder des Vereins können alle natürlichen Personen werden. Fördernde Mitglieder können alle natürlichen Personen sowie juristische Personen und rechtsfähige Personengesellschaften werden.
 
@@ -62,7 +61,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technis
 (5) Die Ernennung von Ehrenmitgliedern erfolg auf Antrag des Vorstandes durch die Generalversammlung.
 
 
-§ 6: Beendigung der Mitgliedschaft
+## § 6: Beendigung der Mitgliedschaft
 
 (1) Die ordentliche und fördernde Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss. Die Ehrenmitgliedschaft erlischt durch freiwilligen Austritt und durch Ausschluss.
 
@@ -81,7 +80,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technis
 (8) Die Rechte und Pflichten des betroffenen Mitglieds ruhen beitragsfrei vom Zeitpunkt der ersten Mitteilung (Absatz 6) bis zur endgültigen Entscheidung über den Ausschluss.
 
 
-§ 7: Rechte und Pflichten der Mitglieder
+## § 7: Rechte und Pflichten der Mitglieder
 
 (1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen des Vereins zu beanspruchen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht stehen nur ordentlichen Mitgliedern zu.
 
@@ -96,11 +95,11 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technis
 (6) Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Insbesondere müssen die Mitglieder das Metalab und dessen Ausstattung und Einrichtungen zu jedem Zeitpunkt pfleglich und mit der gebotenen Sorgfalt behandeln. Sie haben die Vereinsstatuten und die Beschlüsse der Vereinsorgane zu beachten. Die ordentlichen und fördernden Mitglieder sind zur pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der von der Generalversammlung beschlossenen Höhe verpflichtet. Ist ein Mitglied mit der Zahlung seiner Beiträge im Rückstand, so ruhen alle dessen Rechte mit Ausnahme des passiven Wahlrechts bis zur vollständigen Zahlung der Beiträge.
 
 
-§ 8: Vereinsorgane
+## § 8: Vereinsorgane
 Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§§11 bis 13), die Rechnungsprüfer (§ 14) und das Schiedsgericht (§ 15).
 
 
-§ 9: Generalversammlung
+## § 9: Generalversammlung
 
 (1) Die Generalversammlung ist die Mitgliederversammlung im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet mindestens einmal pro Jahr statt.
 
@@ -126,7 +125,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 (9) Den Vorsitz in der Generalversammlung führt ein von der Generalversammlung bestimmter Moderator.
 
 
-§ 10: Aufgaben der Generalversammlung
+## § 10: Aufgaben der Generalversammlung
 Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
 (1) Beschlussfassung über den Voranschlag;
@@ -148,7 +147,7 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 (9) Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
 
 
-§ 11: Vorstand
+## § 11: Vorstand
 
 (1) Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obmann/Obfrau, Schriftführer/in, sowie Kassier/in und soweit von der Generalversammung gewählt auch jeweils  Stellvertreter/in von Obmann/Obfrau, Schriftführer/in, sowie Kassier/in. Zusätzlich kann der Vorstand bis zu drei Beisitzer zur Erfüllung eines spezifisches Aufgabengebiets bestellen.
 
@@ -174,7 +173,7 @@ schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange
 (11) Die Funktionen im Vorstand werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
 
-§ 12: Aufgaben des Vorstands
+## § 12: Aufgaben des Vorstands
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne des Vereinsgesetzes 2002. Ihm kommen alle Aufgaben zu, die nicht durch die Statuten einem anderen Vereinsorgan zugewiesen sind. In seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
 
 (1) Einrichtung eines den Anforderungen des Vereins entsprechenden Rechnungswesens mit laufender Aufzeichnung der Einnahmen/Ausgaben und Führung eines Vermögensverzeichnisses als Mindesterfordernis;
@@ -192,7 +191,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne 
 (7) Aufnahme und Kündigung von Angestellten des Vereins.
 
 
-§ 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
+## § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 
 (1) Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins. Der/die Schriftführer/in unterstützt den/die Obmann/Obfrau bei der Führung der Vereinsgeschäfte.
 
@@ -213,7 +212,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne 
 (9) Obmann/Obfrau, Schriftführer/in, sowie Kassier/in kann im Einvernehmen mit seinem/seiner/ihrer Stellvertreter/in Teile seiner/ihrer Aufgaben an diesen/diese schriftlich übertragen.
 Unabhängig von der Übertragung können Obmann/Obfrau, Schriftführer/in, sowie Kassier/in diese Aufgaben auch weiterhin selbst wahrnehmen. Daneben sind Obmann/Obfrau, Schriftführer/in, sowie Kassier/in jederzeit berechtigt diese Übertragung schriftlich zu widerrufen.
 
-§ 14: Rechnungsprüfer
+## § 14: Rechnungsprüfer
 
 (1) Zwei Rechnungsprüfer werden von der Generalversammlung auf die Dauer von einem Jahr gewählt. Eine Wiederwahl ist möglich. Die Rechnungsprüfer dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Prüfung ist.
 
@@ -224,7 +223,7 @@ Unabhängig von der Übertragung können Obmann/Obfrau, Schriftführer/in, sowie
 (4) Die Funktionen als Rechnungsprüfer werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
 
-§ 15: Schiedsgericht
+## § 15: Schiedsgericht
 
 (1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist eine Schlichtungseinrichtung im Sinne des Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
 
@@ -235,7 +234,7 @@ Unabhängig von der Übertragung können Obmann/Obfrau, Schriftführer/in, sowie
 (4) Die Funktionen im Schiedsgericht werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
 
-§ 16: Freiwillige Auflösung des Vereins
+## § 16: Freiwillige Auflösung des Vereins
 
 (1) Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur mit Zweidrittelmehrheit der abgegebenen gültigen Stimmen beschlossen werden.
 
