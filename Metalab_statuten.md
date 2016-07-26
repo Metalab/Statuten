@@ -1,4 +1,4 @@
-# Statuten des VEREINS ZUR FÖRDERUNG DER ERFORSCHUNG UND BILDUNG SOZIALER UND TECHNISCHER INNOVATIONEN – „metalab“
+# Statuten des Vereins zur Förderung der Erforschung und Bildung sozialer und technischer Innovationen - „metalab“
 
 
 ## § 1: Name, Sitz und Tätigkeitsbereich
