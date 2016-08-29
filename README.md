@@ -5,6 +5,7 @@
 Statutenänderungen werden bei der Metalab Generalversammlung beschlossen.
 
 Wenn du einen Änderungsantrag stellen möchtest:
+* Bearbeite die Datei Metalab_statuten.md
 * Stelle einen Pullrequest
 * Füge den Antrag in die jeweilige Metalab-Wikiseite hinzu.
 ** Bitte verlinke dabei auf den Pullrequest.
