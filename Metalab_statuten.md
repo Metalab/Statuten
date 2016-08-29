@@ -16,9 +16,9 @@
 
 (2) Ziele des Vereins sind insbesondere:
 
-• die Förderung von Kunst, Wissenschaft und Forschung mit Schwerpunkt Entwicklung sozialer und technologischer Innovationen sowie Schaffung von horizontalen Strukturen für den Wissensaustausch,
+* die Förderung von Kunst, Wissenschaft und Forschung mit Schwerpunkt Entwicklung sozialer und technologischer Innovationen sowie Schaffung von horizontalen Strukturen für den Wissensaustausch,
 
-• in diesem Rahmen die Förderung von Jugendlichen bei kreativer Selbstverwirklichung besonders im Bereich Wissenschaft und Forschung sowie die Förderung experimenteller und theoretischer Erforschung der Auswirkungen kreativproduktiver Freiräume auf den urbanen Raum.
+* in diesem Rahmen die Förderung von Jugendlichen bei kreativer Selbstverwirklichung besonders im Bereich Wissenschaft und Forschung sowie die Förderung experimenteller und theoretischer Erforschung der Auswirkungen kreativproduktiver Freiräume auf den urbanen Raum.
 
 
 ## § 3: Mittel zur Erreichung des Vereinszwecks
@@ -34,10 +34,12 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (3) Die erforderlichen materiellen Mittel sollen insbesondere aufgebracht werden durch
 	(a) Beitrittsgebühren und Mitgliedsbeiträge,
-	(b) Spenden, Sammlungen, öffentliche Förderungen und sonstige Zuwendungen, (c) Verkauf von Merchandise
+	(b) Spenden, Sammlungen, öffentliche Förderungen und sonstige Zuwendungen,
+	(c) Verkauf von Merchandise
 	(d) Getränkeverkauf
 	(e) Durchführung von Veranstaltungen
-	(f) Bereitstellung und Verleih von Werkzeugen (g) Verwaltung von Vermögen
+	(f) Bereitstellung und Verleih von Werkzeugen
+	(g) Verwaltung von Vermögen
 	(h) Führung von Unternehmen
 
 
@@ -73,7 +75,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (5) Mitglieder die 3 Monate oder kürzer Mitglied des Vereins sind können vom Vorstand mündlich ausgeschlossen werden. Für solche Mitglieder gibt es keine Einspruchsmöglichkeit und der Ausschluss tritt sofort in Kraft.
 
-(6) EinemMitglieddaslängerals3MonatedemVereinangehörthatsindderbeabsichtigteAusschluss und die Gründe dafür rechtzeitig durch ein Vorstandsmitglied mitzuteilen; ihm ist mit einer Frist von mindestens einem Tag vor der Beschlußfassung Gelegenheit zu geben, sich gegenüber dem Vorstand zu äußern. Faßt der Vorstand innerhalb eines Monats seit der ersten Mitteilung keinen Beschluß, verfällt die Wirkung der ersten Mitteilung. Der Beschluß ist dem betroffenen Mitglied durch ein Vorstandsmitglied mitzuteilen; im Falle des Ausschlusses sind ihm auch die Gründe mitzuteilen.
+(6) Einem Mitglied das länger als 3 Monate dem Verein angehört hat sind der beabsichtigte Ausschluss und die Gründe dafür rechtzeitig durch ein Vorstandsmitglied mitzuteilen; ihm ist mit einer Frist von mindestens einem Tag vor der Beschlußfassung Gelegenheit zu geben, sich gegenüber dem Vorstand zu äußern. Faßt der Vorstand innerhalb eines Monats seit der ersten Mitteilung keinen Beschluß, verfällt die Wirkung der ersten Mitteilung. Der Beschluß ist dem betroffenen Mitglied durch ein Vorstandsmitglied mitzuteilen; im Falle des Ausschlusses sind ihm auch die Gründe mitzuteilen.
 
 (7) Gegen den Ausschließungsbeschluß des Vorstands steht dem Mitglied, das länger als 3 Monate dem Verein angehört hat, das Recht der Berufung an die Mitgliederversammlung zu. Die Berufung muß innerhalb eines Monats ab Zugang des Ausschließungsbeschlusses beim Vorstand schriftlich oder mündlich zur Niederschrift eingelegt werden. Sofern der Ausschließungsbeschluß einstimmig gefaßt wurde, ist es ausreichend, die Berufung der nächsten ordentlichen Mitgliederversammlung vorzulegen; andernfalls hat der Vorstand innerhalb von zwei Monaten die Mitgliederversammlung zur Entscheidung darüber einzuberufen. Geschieht dies nicht so gilt der Ausschließungsbeschluß als nicht gefaßt. Wird die Berufung nicht fristgerecht eingelegt, gilt die Mitgliedschaft ab dem Zeitpunkt der Beschlußfassung über den Ausschluss als beendet.
 
