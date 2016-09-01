@@ -14,7 +14,7 @@ Bitte beachte:
 * Änderungsanträge müssen fristgerecht eingereicht werden.
 * Änderungsanträge müssen ausformuliert sein. (Pullrequest)
 * Bitte stelle deinen Antrag schon im Vorfeld zur Diskussion, um die Generalversammlung kurz zu halten.
-
+* Bitte füge keine nicht beschlossenen Änderungsvorschläge zum master Branch hinzu. Dort soll nur die offiziell gültige Fassung der Statuten liegen.
 
 ## PDF erzeugen
 
