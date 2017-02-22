@@ -106,11 +106,14 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 (1) Die Generalversammlung ist die Mitgliederversammlung im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet mindestens einmal pro Jahr statt.
 
 (2) Eine außerordentliche Generalversammlung findet auf
+
 	(a) Beschluss des Vorstands oder der ordentlichen Generalversammlung,
 	(b) schriftlichen Antrag von mindestens einem Zehntel der Mitglieder,
 	(c) Verlangen der Rechnungsprüfer (§ 21 Abs. 5 erster Satz VereinsG),
 	(d) Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs.5 zweiter Sat zVereinsG, § 14 Abs.2 dritter Satz dieser Statuten),
-	(e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten) binnen vier Wochen statt.
+	(e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
+
+    binnen vier Wochen statt.
 
 (3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, mittels per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe von Versammlungsort und Zeit sowie der vorläufigen Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a–c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e).
 
