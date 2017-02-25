@@ -26,21 +26,34 @@
 (1) Der Vereinszweck soll durch die in den Abs. 2 und 3 angeführten ideellen und materiellen Mittel erreicht werden.
 
 (2) Zentrales ideelles Mittel ist die Schaffung und der Betrieb von Werkstätten und Projektzentren – im Folgenden Metalab genannt – für freies kreatives Schaffen und als Treff- und Ausgangspunkt für Weiterbildung, Wissenstransfer, und technisch-kreativen Enthusiasmus. Die Schaffung und der Betrieb des Metalab dient insbesondere
-	(a) zum allgemeinen Informations- und Erfahrungsaustausch zwischen den Vereinsmitgliedern untereinander, mit anderen (nationalen und internationalen) Vereinigungen mit ähnlichen Zielsetzungen und der allgemeinen öffentlichkeit,
-	(b) zur Abhaltung von Vorträgen, Schulungen und anderen Weiterbildungsveranstaltungen,
-	(c) zur Bereitstellung von Infrastruktur (z.B. Arbeitsräume, Bibliothek, Werkzeuge und anderer Arbeitsmittel) für kreative und innovative Projekte vor allem technischer Natur und an der Nahtstelle von Technik und Gesellschaft und
-	(d) als sozialer und kultureller Treffpunkt für Kreativschaffende.
+
+(a) zum allgemeinen Informations- und Erfahrungsaustausch zwischen den Vereinsmitgliedern untereinander, mit anderen (nationalen und internationalen) Vereinigungen mit ähnlichen Zielsetzungen und der allgemeinen Öffentlichkeit,
+
+(b) zur Abhaltung von Vorträgen, Schulungen und anderen Weiterbildungsveranstaltungen,
+
+(c) zur Bereitstellung von Infrastruktur (z.B. Arbeitsräume, Bibliothek, Werkzeuge und anderer Arbeitsmittel) für kreative und innovative Projekte vor allem technischer Natur und an der Nahtstelle von Technik und Gesellschaft und
+
+(d) als sozialer und kultureller Treffpunkt für Kreativschaffende.
+
 Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technischen Infrastruktur (Mailinglisten, Webserver, etc.) zur Kommunikation zwischen den Vereinsmitgliedern untereinander, mit anderen (internationalen) Vereinigungen mit ähnlichen Zielsetzungen und der allgemeinen öffentlichkeit.
 
 (3) Die erforderlichen materiellen Mittel sollen insbesondere aufgebracht werden durch
-	(a) Beitrittsgebühren und Mitgliedsbeiträge,
-	(b) Spenden, Sammlungen, öffentliche Förderungen und sonstige Zuwendungen,
-	(c) Verkauf von Merchandise
-	(d) Getränkeverkauf
-	(e) Durchführung von Veranstaltungen
-	(f) Bereitstellung und Verleih von Werkzeugen
-	(g) Verwaltung von Vermögen
-	(h) Führung von Unternehmen
+
+(a) Beitrittsgebühren und Mitgliedsbeiträge,
+
+(b) Spenden, Sammlungen, öffentliche Förderungen und sonstige Zuwendungen,
+
+(c) Verkauf von Merchandise
+
+(d) Getränkeverkauf
+
+(e) Durchführung von Veranstaltungen
+
+(f) Bereitstellung und Verleih von Werkzeugen
+
+(g) Verwaltung von Vermögen
+
+(h) Führung von Unternehmen
 
 
 ## § 4: Arten der Mitgliedschaft
@@ -107,13 +120,17 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 (2) Eine außerordentliche Generalversammlung findet auf
 
-	(a) Beschluss des Vorstands oder der ordentlichen Generalversammlung,
-	(b) schriftlichen Antrag von mindestens einem Zehntel der Mitglieder,
-	(c) Verlangen der Rechnungsprüfer (§ 21 Abs. 5 erster Satz VereinsG),
-	(d) Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs.5 zweiter Sat zVereinsG, § 14 Abs.2 dritter Satz dieser Statuten),
-	(e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
+(a) Beschluss des Vorstands oder der ordentlichen Generalversammlung,
 
-    binnen vier Wochen statt.
+(b) schriftlichen Antrag von mindestens einem Zehntel der Mitglieder,
+
+(c) Verlangen der Rechnungsprüfer (§ 21 Abs. 5 erster Satz VereinsG),
+
+(d) Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs.5 zweiter Sat zVereinsG, § 14 Abs.2 dritter Satz dieser Statuten),
+
+(e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
+
+binnen vier Wochen statt.
 
 (3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, mittels per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe von Versammlungsort und Zeit sowie der vorläufigen Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a–c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e).
 
