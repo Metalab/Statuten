@@ -134,7 +134,7 @@ binnen vier Wochen statt.
 
 (3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, mittels per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe von Versammlungsort und Zeit sowie der vorläufigen Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a–c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e).
 
-(4) Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand schriftlich oder per E-Mail einzureichen. Weitere Anträge können auf Antrag eines Mitgliedes durch einen Beschluß des Vorstandes während der Versammlung selbst zur Tagesordnung hinzugefügt werden.
+(4) Anträge zur Generalversammlung sind mindestens eine Woche vor dem Termin der Generalversammlung beim Vorstand schriftlich oder per E-Mail einzureichen. Weitere Anträge können auf Antrag eines Mitgliedes durch einen Beschluß des Vorstandes während der Versammlung selbst zur Tagesordnung hinzugefügt werden.
 
 (5) Gültige Beschlüsse – ausgenommen solche über einen Antrag auf Einberufung einer außerordentlichen Generalversammlung – können nur zur Tagesordnung gefasst werden.
 
