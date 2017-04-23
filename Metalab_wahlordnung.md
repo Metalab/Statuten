@@ -24,7 +24,7 @@
 
 (6) Jede\*r Wahlberechtigte ordnet die Kandidat\*innen nach seiner\*ihrer Präferenz, wobei Nichtreihung zulässig ist (dies entspricht einer Gleichreihung auf den letzten Platz). Gleichreihung sollte zur Findung eines eindeutigen Ergebnisses möglichst vermieden werden; sollte jedoch ein Wahlzettel eine Gleichreihung enthalten, wird diese auch als solche gewertet.
 
-(7) Der erstgereihte Antrag gilt als angenommen bzw. der\*die erstgereihte Kandidat\*in als gewählt. Ist die Wahl eines*r Stellvertreter\*in vorgesehen, so gilt für diese Position der*die zweitgereihte Kandidat\*in als gewählt. Nimmt ein*e Kandidat\*in die Wahl nicht an, wird diese*r von der Reihung gestrichen und der*die nächstgereihte Kandidat\*in gilt als gewählt, solange diese*r die benötigte Zustimmung zur Teilnahme an der zweiten Wahlrunde erhalten hat.
+(7) Der erstgereihte Antrag gilt als angenommen bzw. der\*die erstgereihte Kandidat\*in als gewählt. Ist die Wahl eines\*r Stellvertreter\*in vorgesehen, so gilt für diese Position der\*die zweitgereihte Kandidat\*in als gewählt. Nimmt ein\*e Kandidat\*in die Wahl nicht an, wird diese\*r von der Reihung gestrichen und der\*die nächstgereihte Kandidat\*in gilt als gewählt, solange diese\*r die benötigte Zustimmung zur Teilnahme an der zweiten Wahlrunde erhalten hat.
 
 (8) Im Falle, dass die Schulze-Methode für eine Gruppe von Anträgen bzw. Kandidat\*innen keine eindeutige Reihung ergibt, die Reihung der betroffenen Anträge bzw. Kandidat\*innen aber für das Ergebnis relevant ist, so entscheidet zwischen den betroffenen Anträgen bzw. Kandidat\*innen das Los.
 
