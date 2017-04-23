@@ -122,7 +122,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 (7) Die Generalversammlung ist ohne Rücksicht auf die Anzahl der Erschienenen beschlussfähig.
 
-(8) Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen. Die Generalversammlung kann eine Wahlordnung beschließen, die Details über den Wahlmodus regelt, allerdings muss bei Wahlen von Vereinsorganen (§8) und Abstimmungen über Anträge zur Generalversammlung (§9 Abs. 4) auf jeden Fall auf Verlangen eines anwesenden, stimmberechtigten Mitgliedes in geheimer Wahl mittels Stimmzettel abgestimmt werden.
+(8) Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen. Die Generalversammlung kann eine Wahlordnung beschließen, die Details über den Wahlmodus regelt, allerdings muss bei Wahlen von Vereinsorganen (§8) und Abstimmungen über Anträge zur Generalversammlung (§9 Abs. 4) auf jeden Fall in geheimer Wahl mittels Stimmzettel abgestimmt werden.
 
 (9) Den Vorsitz in der Generalversammlung führt ein von der Generalversammlung bestimmter Moderator.
 
