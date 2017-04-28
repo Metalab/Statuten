@@ -18,7 +18,7 @@
 
 (3) Bei offener Abstimmung kann die Moderation bei klaren Mehrheitsverhältnissen auf das Auszählen der Stimmen verzichten und das Ergebnis direkt feststellen. Bei Unklarheiten muss auf Verlangen eines stimmberechtigten Mitgliedes eine Auszählung vorgenommen werden.
 
-(4) Bei geheimer Abstimmung kann die Moderation die Abstimmung über einzelne Punkte mit anderen Abstimmungen zeitlich und auf einem Stimmzettel zusammenfassen.
+(4) Bei geheimer Abstimmung kann die Moderation die Abstimmung über einzelne Punkte mit anderen Abstimmungen zeitlich und auf einen Stimmzettel zusammenfassen.
 
 (5) Bei geheimer Abstimmung von konkurrierenden Anträgen und Personenwahlen wird eine zweite Wahlrunde nach der Schulze-Methode abgehalten. Nur Anträge bzw. Kandidat\*innen, die in der ersten Runde die erforderliche Mehrheit erreicht haben, nehmen an der zweiten Wahlrunde teil.
 
