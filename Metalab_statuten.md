@@ -171,20 +171,19 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
 ## § 11: Vorstand
 
-(1) Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obmann/Obfrau, Schriftführer/in, sowie Kassier/in und soweit von der Generalversammung gewählt auch jeweils  Stellvertreter/in von Obmann/Obfrau, Schriftführer/in, sowie Kassier/in. Zusätzlich kann der Vorstand bis zu drei Beisitzer zur Erfüllung eines spezifisches Aufgabengebiets bestellen.
+(1) Der Vorstand besteht aus mindestend drei Mitgliedern, und zwar aus Obmann/Obfrau, Schriftführer/in, sowie Kassier/in. Zusätzlich kann der Vorstand bis zu drei Beisitzer zur Erfüllung eines spezifisches Aufgabengebiets bestellen.
 
 (2) Der Vorstand wird von der Generalversammlung gewählt. Der Vorstand hat bei Ausscheiden eines gewählten Mitglieds das Recht, an seine Stelle ein anderes wählbares Mitglied zu kooptieren. Hierfür ist die nachträgliche Genehmigung in der nächstfolgenden Generalversammlung einzuholen. Beim Ausscheiden eines Beisitzers kann dessen Position auch gestrichen werden. Fällt der Vorstand ohne Selbstergänzung durch Kooptierung überhaupt oder auf unvorhersehbar lange Zeit aus, so ist jeder Rechnungsprüfer verpflichtet, unverzüglich eine außerordentliche Generalversammlung zum Zweck der Neuwahl eines Vorstands einzuberufen. Sollten auch die Rechnungsprüfer handlungsunfähig sein, hat jedes ordentliche Mitglied, das die Notsituation erkennt, unverzüglich die Bestellung eines Kurators beim zuständigen Gericht zu beantragen, der umgehend eine außerordentliche Generalversammlung einzuberufen hat.
 
 (3) Die Funktionsperiode des Vorstands beträgt ein Jahr. Eine Wiederwahl ist möglich. Jede Funktion im Vorstand ist persönlich auszuüben.
 
-(4) Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung dessen/deren Stellvertreter /in ansonsten von dem/der Schriftführer/in oder dessen/deren Stellvertreter/in,
-schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
+(4) Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung von dem/der Schriftführer/in, schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
 
 (5) Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und mindestens die Hälfte von ihnen anwesend ist.
 
 (6) Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des/der Vorsitzenden den Ausschlag.
 
-(7) Den Vorsitz führt der/die Obmann/Obfrau, bei Verhinderung deren/dessen Stellvertreter/in. Ansonsten obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied oder jenem Vorstandsmitglied, das die übrigen Vorstandsmitglieder mehrheitlich dazu bestimmen.
+(7) Den Vorsitz führt der/die Obmann/Obfrau, bei Verhinderung obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied oder jenem Vorstandsmitglied, das die übrigen Vorstandsmitglieder mehrheitlich dazu bestimmen.
 
 (8) Außer durch den Tod und Ablauf der Funktionsperiode (Abs. 3) erlischt die Funktion eines Vorstandsmitglieds durch Enthebung (Abs. 9) und Rücktritt (Abs. 10).
 
@@ -229,10 +228,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne 
 
 (7) Der/die Kassier/in ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
 
-(8) Im Fall der Verhinderung treten an die Stelle des/der Obmanns/Obfrau, des Schriftführers/der Schriftführerin oder des Kassiers/der Kassierin ihre Stellvertreter/innen. Wurden der/die Stellvertreter/in nicht gewählt, so kann das jeweilige verhinderte Vorstandsmitglied durch die anderen gewählten Vorstandsmitglieder gemeinsam vertreten werden.
-
-(9) Obmann/Obfrau, Schriftführer/in, sowie Kassier/in kann im Einvernehmen mit seinem/seiner/ihrer Stellvertreter/in Teile seiner/ihrer Aufgaben an diesen/diese schriftlich übertragen.
-Unabhängig von der Übertragung können Obmann/Obfrau, Schriftführer/in, sowie Kassier/in diese Aufgaben auch weiterhin selbst wahrnehmen. Daneben sind Obmann/Obfrau, Schriftführer/in, sowie Kassier/in jederzeit berechtigt diese Übertragung schriftlich zu widerrufen.
+(8) Im Fall der Verhinderung eines gewählten Vorstandsmitgliedes (Obfrau, Schriftführer, Kassierin) kann dieses durch die anderen gewählten Vorstandsmitglieder gemeinsam vertreten werden.
 
 ## § 14: Rechnungsprüfer
 
