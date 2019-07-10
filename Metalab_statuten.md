@@ -97,7 +97,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 ## § 7: Rechte und Pflichten der Mitglieder
 
-(1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen des Vereins zu beanspruchen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht stehen nur ordentlichen Mitgliedern zu.
+(1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen des Vereins zu beanspruchen. Eine Ausnahme bilden Maßnahmen zur Förderung von im Vereinsleben unterepräsentierten Personengruppen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht stehen nur ordentlichen Mitgliedern zu.
 
 (2) Jedes Mitglied ist berechtigt, vom Vorstand die Ausfolgung der Statuten zu verlangen.
 
