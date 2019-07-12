@@ -58,9 +58,11 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 ## § 4: Arten der Mitgliedschaft
 
-(1) Die Mitglieder des Vereins gliedern sich in ordentliche und fördernde Mitglieder sowie Ehrenmitglieder.
+(1) Die Mitglieder des Vereins gliedern sich in ordentliche und fördernde Mitglieder.
 
-(2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Fördernde Mitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags fördern. Ehrenmitglieder sind Personen, die hierzu wegen besonderer Verdienste um den Verein dazu ernannt werden.
+(2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Fördernde Mitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines Mitgliedsbeitrags fördern. Nur ordentliche Mitglieder sind
+
+(3) Fördermitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines regelmäßigen Mitgliedsbeitrages und/oder durch aktive Mitarbeit im Verein auszeichnen, denen jedoch kein Stimmrecht in der Generalversammlung zukommt. Fördermitglieder sind ausdrücklich eingeladen, sich durch aktive Mitarbeit am Vereinsleben zu beteiligen und so eine ordentliche Mitgliedschaft anzustreben.
 
 
 ## § 5: Erwerb der Mitgliedschaft
@@ -69,28 +71,26 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (2) Die ordentliche und fördernde Mitgliedschaft wird durch schriftliche Beitrittserklärung gegenüber einem Vorstandsmitglied begründet. Über die Aufnahme fördernder Mitglieder entscheidet der Vorstand und ihre Aufnahme kann ohne Angabe von Gründen verweigert werden.
 
-(3) Der Vorstand kann den Beitritt eines ordentlichen Mitgliedes innerhalb von drei Monaten durch Beschluß ablehnen. In diesem Fall gilt die Mitgliedschaft als von Anfang an nicht zustande gekommen. Die Ablehnung ist dem Betroffenen von einem Vorstandsmitglied mitzuteilen; die Gründe brauchen nicht mitgeteilt zu werden. Die Regelungen für die Berufung eines ausgeschlossenen Mitglieds an die Mitgliederversammlung (§ 6, Abs. 7) gelten sinngemäß.
+(3) Über die Aufnahme ordentlicher Mitglieder entscheidet die auf die Beitrittserklärung folgende Generalversammlung. Bei Ablehnung gilt die Mitgliedschaft als von Anfang an nicht zustande gekommen. Die Ablehnung ist dem Betroffenen von einem Vorstandsmitglied mitzuteilen; die Gründe brauchen nicht mitgeteilt zu werden.
 
 (4) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und fördernden Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen. Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und außerordentlicher Mitglieder bis dahin durch die Gründer des Vereins.
-
-(5) Die Ernennung von Ehrenmitgliedern erfolg auf Antrag des Vorstandes durch die Generalversammlung.
 
 
 ## § 6: Beendigung der Mitgliedschaft
 
 (1) Die ordentliche und fördernde Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss. Die Ehrenmitgliedschaft erlischt durch freiwilligen Austritt und durch Ausschluss.
 
-(2) Der Austritt kann nur zum  Ende des Monats erfolgen. Er muss dem Vorstand mindestens ein Monat vorher schriftlich mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam. Alle geleisteten Beiträge verfallen an den Verein.
+(2) Der Austritt kann nur zum Ende des Monats erfolgen. Er muss dem Vorstand mindestens ein Monat vorher schriftlich mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam. Alle geleisteten Beiträge verfallen an den Verein.
 
-(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
+(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz einmaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als zwei Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
 
 (4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden. Als grobe Verletzung seiner Mitgliedspflichten gilt auch die übermäßige Inanspruchnahme der Vereinsmittel durch einzelne Mitglieder, wenn dadurch der Vereinszweck insgesamt gefährdet wird.
 
-(5) Mitglieder die 3 Monate oder kürzer Mitglied des Vereins sind können vom Vorstand mündlich ausgeschlossen werden. Für solche Mitglieder gibt es keine Einspruchsmöglichkeit und der Ausschluss tritt sofort in Kraft.
+(5) Mitglieder, die 3 Monate oder kürzer Mitglied des Vereins sind können vom Vorstand mündlich ausgeschlossen werden. Für solche Mitglieder gibt es keine Einspruchsmöglichkeit und der Ausschluss tritt sofort in Kraft.
 
 (6) Einem Mitglied das länger als 3 Monate dem Verein angehört hat sind der beabsichtigte Ausschluss und die Gründe dafür rechtzeitig durch ein Vorstandsmitglied mitzuteilen; ihm ist mit einer Frist von mindestens einem Tag vor der Beschlußfassung Gelegenheit zu geben, sich gegenüber dem Vorstand zu äußern. Faßt der Vorstand innerhalb eines Monats seit der ersten Mitteilung keinen Beschluß, verfällt die Wirkung der ersten Mitteilung. Der Beschluß ist dem betroffenen Mitglied durch ein Vorstandsmitglied mitzuteilen; im Falle des Ausschlusses sind ihm auch die Gründe mitzuteilen.
 
-(7) Gegen den Ausschließungsbeschluß des Vorstands steht dem Mitglied, das länger als 3 Monate dem Verein angehört hat, das Recht der Berufung an die Mitgliederversammlung zu. Die Berufung muß innerhalb eines Monats ab Zugang des Ausschließungsbeschlusses beim Vorstand schriftlich oder mündlich zur Niederschrift eingelegt werden. Sofern der Ausschließungsbeschluß einstimmig gefaßt wurde, ist es ausreichend, die Berufung der nächsten ordentlichen Mitgliederversammlung vorzulegen; andernfalls hat der Vorstand innerhalb von zwei Monaten die Mitgliederversammlung zur Entscheidung darüber einzuberufen. Geschieht dies nicht so gilt der Ausschließungsbeschluß als nicht gefaßt. Wird die Berufung nicht fristgerecht eingelegt, gilt die Mitgliedschaft ab dem Zeitpunkt der Beschlußfassung über den Ausschluss als beendet.
+(7) Gegen den Ausschließungsbeschluß des Vorstands steht dem Mitglied, das länger als 3 Monate dem Verein angehört hat, das Recht der Berufung an die Generalversammlung zu. Die Berufung muß innerhalb eines Monats ab Zugang des Ausschließungsbeschlusses beim Vorstand schriftlich oder mündlich zur Niederschrift eingelegt werden. Sofern der Ausschließungsbeschluß einstimmig gefaßt wurde, ist es ausreichend, die Berufung der nächsten ordentlichen Generalversammlung vorzulegen; andernfalls hat der Vorstand innerhalb von zwei Monaten die Generalversammlung zur Entscheidung darüber einzuberufen. Geschieht dies nicht so gilt der Ausschließungsbeschluß als nicht gefaßt. Wird die Berufung nicht fristgerecht eingelegt, gilt die Mitgliedschaft ab dem Zeitpunkt der Beschlußfassung über den Ausschluss als beendet.
 
 (8) Die Rechte und Pflichten des betroffenen Mitglieds ruhen beitragsfrei vom Zeitpunkt der ersten Mitteilung (Absatz 6) bis zur endgültigen Entscheidung über den Ausschluss.
 
@@ -103,7 +103,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (3) Mindestens ein Zehntel der Mitglieder kann vom Vorstand die Einberufung einer Generalversammlung verlangen.
 
-(4) Die Mitglieder sind in jeder Generalversammlung vom Vorstand über die Tätigkeit und finanzielle Gebarung des Vereins zu informieren. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat der Vorstand den betreffenden Mitgliedern eine solche Information auch sonst binnen vier Wochen zu geben.
+(4) Die Mitglieder sind mindestens einmal im Jahr bei einer Generalversammlung vom Vorstand über die Tätigkeit und finanzielle Gebarung des Vereins zu informieren. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat der Vorstand den betreffenden Mitgliedern eine solche Information auch sonst binnen vier Wochen zu geben.
 
 (5) Die Mitglieder sind vom Vorstand über den geprüften Rechnungsabschluss (Rechnungslegung) zu informieren. Geschieht dies in der Generalversammlung, sind die Rechnungsprüfer einzubinden.
 
@@ -116,7 +116,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 ## § 9: Generalversammlung
 
-(1) Die Generalversammlung ist die Mitgliederversammlung im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet mindestens einmal pro Jahr statt.
+(1) Die Generalversammlung ist die Generalversammlung im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet in der Regel alle zwei Wochen, mindestens jedoch einmal pro Jahr statt.
 
 (2) Eine außerordentliche Generalversammlung findet auf
 
@@ -132,7 +132,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 binnen vier Wochen statt.
 
-(3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, mittels per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe von Versammlungsort und Zeit sowie der vorläufigen Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a–c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e).
+(3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens eine Woche vor dem Termin schriftlich, mittels E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Einladung kann über vereinsinterne E-Mail-Verteiler erfolgen. Mitglieder gelten trotzdem als eingeladen, wenn sie freiwillig den Empfang von Nachricht über solche Verteiler ablehnen, solange sie jederzeit die Möglichkeit haben sich wieder für den Empfang anzumelden. Die Anberaumung der Generalversammlung hat unter Angabe von Versammlungsort und Zeit sowie der vorläufigen Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a–c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e).
 
 (4) Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand schriftlich oder per E-Mail einzureichen. Weitere Anträge können auf Antrag eines Mitgliedes durch einen Beschluß des Vorstandes während der Versammlung selbst zur Tagesordnung hinzugefügt werden.
 
@@ -142,7 +142,7 @@ binnen vier Wochen statt.
 
 (7) Die Generalversammlung ist ohne Rücksicht auf die Anzahl der Erschienenen beschlussfähig.
 
-(8) Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
+(8) Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen und müssen bei der darauffolgenden Generalversammlung mit einfacher Mehrheit bestätigt werden.
 
 (9) Den Vorsitz in der Generalversammlung führt ein von der Generalversammlung bestimmter Moderator.
 
@@ -171,26 +171,25 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
 ## § 11: Vorstand
 
-(1) Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obmann/Obfrau, Schriftführer/in, sowie Kassier/in und soweit von der Generalversammung gewählt auch jeweils  Stellvertreter/in von Obmann/Obfrau, Schriftführer/in, sowie Kassier/in. Zusätzlich kann der Vorstand bis zu drei Beisitzer zur Erfüllung eines spezifisches Aufgabengebiets bestellen.
+(1) Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus dem/der Vorsitzenden, dem/der Schriftführer/in, sowie dem/der Kassier/in und soweit von der Generalversammung gewählt auch bis zu drei weiteren einfachen Vorstandsmitgliedern. Zusätzlich kann der Vorstand bis zu drei Beisitzer zur Erfüllung eines spezifisches Aufgabengebiets bestellen. Der Vorstand kann durch einfache Entscheidung einzelnen Vorstandsmitgliedern die Rolle des/der Stellvertreter/in des/der Vorsitzenden, des/der Schriftführers/in, oder des/der Kassiers/in zuweisen.
 
 (2) Der Vorstand wird von der Generalversammlung gewählt. Der Vorstand hat bei Ausscheiden eines gewählten Mitglieds das Recht, an seine Stelle ein anderes wählbares Mitglied zu kooptieren. Hierfür ist die nachträgliche Genehmigung in der nächstfolgenden Generalversammlung einzuholen. Beim Ausscheiden eines Beisitzers kann dessen Position auch gestrichen werden. Fällt der Vorstand ohne Selbstergänzung durch Kooptierung überhaupt oder auf unvorhersehbar lange Zeit aus, so ist jeder Rechnungsprüfer verpflichtet, unverzüglich eine außerordentliche Generalversammlung zum Zweck der Neuwahl eines Vorstands einzuberufen. Sollten auch die Rechnungsprüfer handlungsunfähig sein, hat jedes ordentliche Mitglied, das die Notsituation erkennt, unverzüglich die Bestellung eines Kurators beim zuständigen Gericht zu beantragen, der umgehend eine außerordentliche Generalversammlung einzuberufen hat.
 
 (3) Die Funktionsperiode des Vorstands beträgt ein Jahr. Eine Wiederwahl ist möglich. Jede Funktion im Vorstand ist persönlich auszuüben.
 
-(4) Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung dessen/deren Stellvertreter /in ansonsten von dem/der Schriftführer/in oder dessen/deren Stellvertreter/in,
-schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
+(4) Der Vorstand wird von der/dem Vorsitzenden, bei Verhinderung dessen/deren Stellvertreter/in ansonsten von dem/der Schriftführer/in oder dessen/deren Stellvertreter/in schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
 
 (5) Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und mindestens die Hälfte von ihnen anwesend ist.
 
 (6) Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des/der Vorsitzenden den Ausschlag.
 
-(7) Den Vorsitz führt der/die Obmann/Obfrau, bei Verhinderung deren/dessen Stellvertreter/in. Ansonsten obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied oder jenem Vorstandsmitglied, das die übrigen Vorstandsmitglieder mehrheitlich dazu bestimmen.
+(7) Den Vorsitz führt der/die Vorsitzende, bei Verhinderung deren/dessen Stellvertreter/in. Ansonsten obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied oder jenem Vorstandsmitglied, das die übrigen Vorstandsmitglieder mehrheitlich dazu bestimmen.
 
 (8) Außer durch den Tod und Ablauf der Funktionsperiode (Abs. 3) erlischt die Funktion eines Vorstandsmitglieds durch Enthebung (Abs. 9) und Rücktritt (Abs. 10).
 
-(9) Die Generalversammlung kann jederzeit den gesamten Vorstand oder einzelne seiner Mitglieder entheben. Die Enthebung tritt mit Bestellung des neuen Vorstands bzw. Vorstandsmitglieds in Kraft.
+(9) Die Generalversammlung kann jederzeit den gesamten Vorstand oder einzelne seiner Mitglieder entheben. Die Enthebung von einfachen Vorstandsmitgliedern tritt unmittelbar mit der Beschlussfassung in Kraft, alle anderen mit Bestellung des neuen Vorstands bzw. Vorstandsmitglieds.
 
-(10) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl bzw. Kooptierung (Abs. 2) eines Nachfolgers wirksam.
+(10) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt von einfachen Vorstandsmitgliedern ist unmittelbar ab Mitteilung wirksam, ansonsten wird dieser erst mit Wahl bzw. Kooptierung (Abs. 2) eines/r Nachfolgers/in wirksam.
 
 (11) Die Funktionen im Vorstand werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
@@ -215,24 +214,24 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne 
 
 ## § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 
-(1) Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins. Der/die Schriftführer/in unterstützt den/die Obmann/Obfrau bei der Führung der Vereinsgeschäfte.
+(1) Der/die Vorsitzende führt die laufenden Geschäfte des Vereins. Der/die Schriftführer/in unterstützt den/die Vorsitzende/n bei der Führung der Vereinsgeschäfte.
 
-(2) Der/die Obmann/Obfrau vertritt den Verein nach außen. Schriftliche Ausfertigungen des Vereins bedürfen zu ihrer Gültigkeit der Unterschriften des/der Obmanns/Obfrau und des/der Schriftführers/Schriftführerin, in Geldangelegenheiten (vermögenswerte Dispositionen) des/der Obmanns/Obfrau und des Kassiers/der Kassierin. Rechtsgeschäfte zwischen Vorstandsmitgliedern und Verein bedürfen der Zustimmung eines anderen Vorstandsmitglieds.
+(2) Der/die Vorsitzende vertritt den Verein nach außen. Schriftliche Ausfertigungen des Vereins bedürfen zu ihrer Gültigkeit der Unterschriften des/der Vorsitzenden und des/der Schriftführers/Schriftführerin, in Geldangelegenheiten (vermögenswerte Dispositionen) des/der Vorsitzenden und des Kassiers/der Kassierin. Rechtsgeschäfte zwischen Vorstandsmitgliedern und Verein bedürfen der Zustimmung eines anderen Vorstandsmitglieds.
 
 (3) Rechtsgeschäftliche Bevollmächtigungen, den Verein nach außen zu vertreten bzw. für ihn zu zeichnen, können ausschließlich von den in Abs. 2 genannten Vorstandsmitgliedern erteilt werden.
 
-(4) Bei Gefahr im Verzug ist der/die Obmann/Obfrau berechtigt, auch in Angelegenheiten, die in den Wirkungsbereich der Generalversammlung oder des Vorstands fallen, unter eigener Verantwortung selbständig Anordnungen zu treffen; im Innenverhältnis bedürfen diese jedoch der nachträglichen Genehmigung durch das zuständige Vereinsorgan.
+(4) Bei Gefahr im Verzug ist der/die Vorsitzende berechtigt, auch in Angelegenheiten, die in den Wirkungsbereich der Generalversammlung oder des Vorstands fallen, unter eigener Verantwortung selbständig Anordnungen zu treffen; im Innenverhältnis bedürfen diese jedoch der nachträglichen Genehmigung durch das zuständige Vereinsorgan.
 
-(5) Der/die Obmann/Obfrau führt den Vorsitz im Vorstand.
+(5) Der/die Vorsitzende führt den Vorsitz im Vorstand.
 
 (6) Der/die Schriftführer/in führt die Protokolle der Generalversammlung und des Vorstands.
 
 (7) Der/die Kassier/in ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
 
-(8) Im Fall der Verhinderung treten an die Stelle des/der Obmanns/Obfrau, des Schriftführers/der Schriftführerin oder des Kassiers/der Kassierin ihre Stellvertreter/innen. Wurden der/die Stellvertreter/in nicht gewählt, so kann das jeweilige verhinderte Vorstandsmitglied durch die anderen gewählten Vorstandsmitglieder gemeinsam vertreten werden.
+(8) Im Fall der Verhinderung treten an die Stelle des/der Vorsitzende, des Schriftführers/der Schriftführerin oder des Kassiers/der Kassierin ihre Stellvertreter/innen. Wurden der/die Stellvertreter/in nicht bestimmt, so kann das jeweilige verhinderte Vorstandsmitglied durch die anderen gewählten Vorstandsmitglieder gemeinsam vertreten werden.
 
-(9) Obmann/Obfrau, Schriftführer/in, sowie Kassier/in kann im Einvernehmen mit seinem/seiner/ihrer Stellvertreter/in Teile seiner/ihrer Aufgaben an diesen/diese schriftlich übertragen.
-Unabhängig von der Übertragung können Obmann/Obfrau, Schriftführer/in, sowie Kassier/in diese Aufgaben auch weiterhin selbst wahrnehmen. Daneben sind Obmann/Obfrau, Schriftführer/in, sowie Kassier/in jederzeit berechtigt diese Übertragung schriftlich zu widerrufen.
+(9) Vorsitzende, Schriftführer/in, sowie Kassier/in kann im Einvernehmen mit seinem/seiner/ihrer Stellvertreter/in Teile seiner/ihrer Aufgaben an diesen/diese schriftlich übertragen.
+Unabhängig von der Übertragung können Vorsitzende, Schriftführer/in, sowie Kassier/in diese Aufgaben auch weiterhin selbst wahrnehmen. Daneben sind Vorsitzende, Schriftführer/in, sowie Kassier/in jederzeit berechtigt diese Übertragung schriftlich zu widerrufen.
 
 ## § 14: Rechnungsprüfer
 
