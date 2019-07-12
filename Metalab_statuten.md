@@ -103,7 +103,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (3) Mindestens ein Zehntel der Mitglieder kann vom Vorstand die Einberufung einer Generalversammlung verlangen.
 
-(4) Die Mitglieder sind mindestens einmal im Jahr bei einer Generalversammlung vom Vorstand über die Tätigkeit und finanzielle Gebarung des Vereins zu informieren. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat der Vorstand den betreffenden Mitgliedern eine solche Information auch sonst binnen vier Wochen zu geben.
+(4) Die Mitglieder sind in jeder Generalversammlung vom Vorstand über die Tätigkeit und finanzielle Gebarung des Vereins zu informieren. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat der Vorstand den betreffenden Mitgliedern eine solche Information auch sonst binnen vier Wochen zu geben.
 
 (5) Die Mitglieder sind vom Vorstand über den geprüften Rechnungsabschluss (Rechnungslegung) zu informieren. Geschieht dies in der Generalversammlung, sind die Rechnungsprüfer einzubinden.
 
