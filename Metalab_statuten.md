@@ -116,7 +116,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 ## § 9: Generalversammlung
 
-(1) Die Generalversammlung ist die Generalversammlung im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet in der Regel alle zwei Wochen, mindestens jedoch einmal pro Jahr statt.
+(1) Die Generalversammlung ist die Mitgliederversammlung im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet in der Regel alle zwei Wochen, mindestens jedoch einmal pro Jahr statt.
 
 (2) Eine außerordentliche Generalversammlung findet auf
 
