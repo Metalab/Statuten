@@ -5,7 +5,7 @@
 
 (1) Der Verein führt den Namen „Verein zur Förderung der Erforschung und Bildung sozialer und technischer Innovationen – metalab“.
 
-(2) Er hat seinen Sitz in Wien und erstreckt seine Tätigkeit auf Wien und Umgebung.
+(2) Er hat seinen Sitz in Wien und erstreckt seine Tätigkeit primär auf Wien und sekundär auf die ganze Welt.
 
 (3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
 
@@ -97,7 +97,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 ## § 7: Rechte und Pflichten der Mitglieder
 
-(1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen des Vereins zu beanspruchen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht stehen nur ordentlichen Mitgliedern zu.
+(1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen des Vereins zu beanspruchen. Die Generalversammlung kann Ausnahmen zur Förderung marginalisierter Gruppen beschließen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht stehen nur ordentlichen Mitgliedern zu.
 
 (2) Jedes Mitglied ist berechtigt, vom Vorstand die Ausfolgung der Statuten zu verlangen.
 
@@ -249,7 +249,7 @@ Unabhängig von der Übertragung können Obperson, Schriftführende\*r, sowie Ka
 
 (1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist eine Schlichtungseinrichtung im Sinne des Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
 
-(2) Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Mitglieder des Schiedsgerichts binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum\*zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
+(2) Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter\*in schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied als Schiedsrichter\*in namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Mitglieder des Schiedsgerichts binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum\*zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
 
 (3) Das Schiedsgericht fällt seine Entscheidung nach Gewährung beiderseitigen Gehörs bei Anwesenheit aller Mitglieder des Schiedsgerichts mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und Gewissen. Die Entscheidungen des Schiedsgerichts sind vereinsintern endgültig.
 
