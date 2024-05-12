@@ -190,7 +190,7 @@ schriftlich oder mündlich einberufen. Ist auch diese\*r auf unvorhersehbar lang
 
 (9) Die Generalversammlung kann jederzeit den gesamten Vorstand oder einzelne seiner Mitglieder entheben. Die Enthebung tritt mit Bestellung des neuen Vorstands bzw. Vorstandsmitglieds in Kraft.
 
-(10) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl, Kooptierung (Abs. 2) oder Nachrücken (Abs. 12) einer Nachfolge wirksam.
+(10) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl, Kooptierung (Abs. 2) oder Nachrücken (Abs. 12) einer Nachfolge wirksam. Bei einer stellvertrendenen Position, wird der Rückritt sofort wirksam; eine Nachbesetzung ist nicht notwendig.
 
 (11) Die Funktionen im Vorstand werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
