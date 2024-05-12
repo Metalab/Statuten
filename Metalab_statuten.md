@@ -194,7 +194,7 @@ schriftlich oder mündlich einberufen. Ist auch diese\*r auf unvorhersehbar lang
 
 (11) Die Funktionen im Vorstand werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
-(12) Erklärt ein Vorstandsmitglied den Rückritt (Abs. 10), rückt die für die relevante Position gewählte Stellvertretung nach. Eine Kooptierung ist dazu nicht notwendig.
+(12) Erklärt ein Vorstandsmitglied den Rückritt (Abs. 10), rückt die für die relevante Position gewählte Stellvertretung nach, wenn sie besetzt ist. Eine Kooptierung ist dazu nicht notwendig.
 
 ## § 12: Aufgaben des Vorstands
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne des Vereinsgesetzes 2002. Ihm kommen alle Aufgaben zu, die nicht durch die Statuten einem anderen Vereinsorgan zugewiesen sind. In seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
