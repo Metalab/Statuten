@@ -8,7 +8,7 @@ Wenn du einen Änderungsantrag stellen möchtest:
 * Bearbeite die Datei Metalab_statuten.md
 * Stelle einen Pullrequest
 * Füge den Antrag in die jeweilige Metalab-Wikiseite hinzu.
-  * https://metalab.at/wiki/Generalversammlung_2017
+  * https://metalab.at/wiki/Kategorie:Generalversammlung
   * Bitte verlinke dabei auf den Pullrequest.
 
 Bitte beachte:
