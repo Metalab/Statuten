@@ -190,11 +190,11 @@ schriftlich oder mündlich einberufen. Ist auch diese\*r auf unvorhersehbar lang
 
 (9) Die Generalversammlung kann jederzeit den gesamten Vorstand oder einzelne seiner Mitglieder entheben. Die Enthebung tritt mit Bestellung des neuen Vorstands bzw. Vorstandsmitglieds in Kraft.
 
-(10) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl, Kooptierung (Abs. 2) oder Nachrücken (Abs. 12) einer Nachfolge wirksam. Bei einer stellvertrendenen Position, wird der Rückritt sofort wirksam; eine Nachbesetzung ist nicht notwendig.
+(10) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl, Kooptierung (Abs. 2) oder Nachrücken (Abs. 12) einer Nachfolge wirksam. Bei einer stellvertretenden Position, wird der Rücktritt sofort wirksam; eine Nachbesetzung ist nicht notwendig.
 
 (11) Die Funktionen im Vorstand werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
-(12) Erklärt ein Vorstandsmitglied den Rückritt (Abs. 10), rückt die für die relevante Position gewählte Stellvertretung nach, wenn sie besetzt ist. Eine Kooptierung ist dazu nicht notwendig.
+(12) Erklärt ein Vorstandsmitglied den Rücktritt (Abs. 10), rückt die für die relevante Position gewählte Stellvertretung nach, wenn sie besetzt ist. Eine Kooptierung ist dazu nicht notwendig.
 
 ## § 12: Aufgaben des Vorstands
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne des Vereinsgesetzes 2002. Ihm kommen alle Aufgaben zu, die nicht durch die Statuten einem anderen Vereinsorgan zugewiesen sind. In seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
