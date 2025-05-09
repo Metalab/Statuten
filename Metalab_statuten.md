@@ -82,7 +82,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (2) Der Austritt kann nur zum  Ende des Monats erfolgen. Er muss dem Vorstand mindestens ein Monat vorher schriftlich mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam. Alle geleisteten Beiträge verfallen an den Verein.
 
-(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
+(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung, unter Setzung einer angemessenen Nachfrist, mindestens sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Wenn ein Mitglied im Zahlungsrückstand ist und unter den angegeben Kontaktmöglichkeiten auch nach 3 Versuchen nicht erreichbar ist und auch auf dem Postweg kein Kontakt hergestellt werden kann, kann die Mitgliedschaft 3 Monate nach dem letzten Kontaktversuch beendet werden. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
 
 (4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden. Als grobe Verletzung seiner Mitgliedspflichten gilt auch die übermäßige Inanspruchnahme der Vereinsmittel durch einzelne Mitglieder, wenn dadurch der Vereinszweck insgesamt gefährdet wird.
 
