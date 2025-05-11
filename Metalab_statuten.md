@@ -67,9 +67,9 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (1) Ordentliche Mitglieder des Vereins können alle natürlichen Personen werden. Fördernde Mitglieder können alle natürlichen Personen sowie juristische Personen und rechtsfähige Personengesellschaften werden.
 
-(2) Die ordentliche und fördernde Mitgliedschaft wird durch schriftliche Beitrittserklärung gegenüber einem Vorstandsmitglied begründet. Über die Aufnahme fördernder Mitglieder entscheidet der Vorstand und ihre Aufnahme kann ohne Angabe von Gründen verweigert werden.
+(2) Die ordentliche und fördernde Mitgliedschaft wird durch schriftliche Beitrittserklärung gegenüber einem Vorstandsmitglied begründet. Über die Aufnahme von Mitglieder entscheidet der Vorstand und ihre Aufnahme kann ohne Angabe von Gründen verweigert werden.
 
-(3) Der Vorstand kann den Beitritt eines ordentlichen Mitgliedes innerhalb von drei Monaten durch Beschluss ablehnen. In diesem Fall gilt die Mitgliedschaft als von Anfang an nicht zustande gekommen. Die Ablehnung ist der betroffenen Person von einem Vorstandsmitglied mitzuteilen; die Gründe brauchen nicht mitgeteilt zu werden. Die Regelungen für die Berufung eines ausgeschlossenen Mitglieds an die Mitgliederversammlung (§ 6, Abs. 7) gelten sinngemäß.
+(3) Der Vorstand kann die Mitgliedschaft eines ordentlichen Mitgliedes innerhalb von drei Monaten durch Beschluss annulieren. In diesem Fall gilt die Mitgliedschaft als von Anfang an nicht zustande gekommen. Die Annulierung ist der betroffenen Person von einem Vorstandsmitglied mitzuteilen; die Gründe brauchen nicht mitgeteilt zu werden. Die Regelungen für die Berufung eines ausgeschlossenen Mitglieds an die Mitgliederversammlung (§ 6, Abs. 7) gelten sinngemäß.
 
 (4) (entfällt)
 
