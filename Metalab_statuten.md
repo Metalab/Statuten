@@ -86,7 +86,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden. Als grobe Verletzung seiner Mitgliedspflichten gilt auch die übermäßige Inanspruchnahme der Vereinsmittel durch einzelne Mitglieder, wenn dadurch der Vereinszweck insgesamt gefährdet wird.
 
-(5) Mitglieder die 3 Monate oder kürzer Mitglied des Vereins sind können vom Vorstand mündlich ausgeschlossen werden. Für solche Mitglieder gibt es keine Einspruchsmöglichkeit und der Ausschluss tritt sofort in Kraft.
+(5) Mitglieder die 3 Monate oder kürzer Mitglied des Vereins sind können vom Vorstand mündlich oder schriftlich ausgeschlossen werden. Für solche Mitglieder gibt es keine Einspruchsmöglichkeit und der Ausschluss tritt sofort in Kraft.
 
 (6) Einem Mitglied das länger als 3 Monate dem Verein angehört hat sind der beabsichtigte Ausschluss und die Gründe dafür rechtzeitig durch ein Vorstandsmitglied mitzuteilen; dem betroffenem Mitglied ist mit einer Frist von mindestens einem Tag vor der Beschlussfassung Gelegenheit zu geben, sich gegenüber dem Vorstand zu äußern. Fasst der Vorstand innerhalb eines Monats seit der ersten Mitteilung keinen Beschluss, verfällt die Wirkung der ersten Mitteilung. Der Beschluss ist dem betroffenen Mitglied durch ein Vorstandsmitglied mitzuteilen; im Falle des Ausschlusses sind dem betroffenem Mitglied auch die Gründe mitzuteilen.
 
