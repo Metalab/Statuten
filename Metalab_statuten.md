@@ -84,7 +84,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung, unter Setzung einer angemessenen Nachfrist, mindestens sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Wenn ein Mitglied im Zahlungsrückstand ist und unter den angegeben Kontaktmöglichkeiten auch nach 3 Versuchen nicht erreichbar ist und auch auf dem Postweg kein Kontakt hergestellt werden kann, kann die Mitgliedschaft 3 Monate nach dem letzten Kontaktversuch beendet werden. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
 
-(4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden. Als grobe Verletzung seiner Mitgliedspflichten gilt auch die übermäßige Inanspruchnahme der Vereinsmittel durch einzelne Mitglieder, wenn dadurch der Vereinszweck insgesamt gefährdet wird.
+(4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung von Mitgliedspflichten aus § 7 und wegen unehrenhaften Verhaltens verfügt werden. Als grobe Verletzung seiner Mitgliedspflichten gilt auch die übermäßige Inanspruchnahme der Vereinsmittel durch einzelne Mitglieder, wenn dadurch der Vereinszweck insgesamt gefährdet wird.
 
 (5) Mitglieder die 3 Monate oder kürzer Mitglied des Vereins sind können vom Vorstand mündlich oder in Textform ausgeschlossen werden. Für solche Mitglieder gibt es keine Einspruchsmöglichkeit und der Ausschluss tritt sofort in Kraft.
 
@@ -107,7 +107,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (5) Die Mitglieder sind vom Vorstand über den geprüften Rechnungsabschluss (Rechnungslegung) zu informieren. Geschieht dies in der Generalversammlung, sind die Rechnungsprüfenden einzubinden.
 
-(6): Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Insbesondere müssen die Mitglieder das Metalab und dessen Ausstattung und Einrichtungen zu jedem Zeitpunkt pfleglich und mit der gebotenen Sorgfalt behandeln. Sie haben die Vereinsstatuten und die Beschlüsse der Vereinsorgane zu beachten.
+(6): Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Insbesondere müssen die Mitglieder das Metalab und dessen Ausstattung und Einrichtungen zu jedem Zeitpunkt pfleglich und mit der gebotenen Sorgfalt behandeln. Sie haben die Vereinsstatuten und die Beschlüsse der Vereinsorgane zu beachten. Alle Mitglieder des Vereins sind an die Hausordnung (siehe Anhang 1) gebunden. Bei Nichtbeachtung dieser Punkte kann der Vorstand die Mitgliedsrechte temporär einschränken oder die Mitgliedschaft gemäß § 6 (4) beenden.
 
 (7): Die ordentlichen und fördernden Mitglieder sind zur pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der von der Generalversammlung beschlossenen Höhe verpflichtet. Der Vorstand kann für einzelne Personen auf deren Anfrage einen ermäßigten Beitrag gewähren. Ist ein Mitglied mit der Zahlung der eigenen Beiträge im Rückstand, so ruhen alle dessen Rechte mit Ausnahme des passiven Wahlrechts bis zur vollständigen Zahlung der Beiträge. 
 
