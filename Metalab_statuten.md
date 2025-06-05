@@ -109,7 +109,7 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (6): Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Insbesondere müssen die Mitglieder das Metalab und dessen Ausstattung und Einrichtungen zu jedem Zeitpunkt pfleglich und mit der gebotenen Sorgfalt behandeln. Sie haben die Vereinsstatuten und die Beschlüsse der Vereinsorgane zu beachten.
 
-(7): Die ordentlichen und fördernden Mitglieder sind zur pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der von der Generalversammlung beschlossenen Höhe verpflichtet. Der Vorstand kann für einzelne Personen auf deren Anfrage einen ermäßigten Beitrag gewähren. Ist ein Mitglied mit der Zahlung der eigenen Beiträge im Rückstand, so ruhen alle dessen Rechte mit Ausnahme des passiven Wahlrechts bis zur vollständigen Zahlung der Beiträge. 
+(7): Die ordentlichen und fördernden Mitglieder sind zur pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der von der Generalversammlung beschlossenen Höhe verpflichtet. Der Vorstand kann für einzelne Personen auf deren Anfrage einen ermäßigten Beitrag gewähren, falls ein angemessener Grund vorliegt. Ist ein Mitglied mit der Zahlung der eigenen Beiträge im Rückstand, so ruhen alle dessen Rechte mit Ausnahme des passiven Wahlrechts bis zur vollständigen Zahlung der Beiträge. 
 
 
 ## § 8: Vereinsorgane
