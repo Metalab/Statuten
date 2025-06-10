@@ -23,6 +23,6 @@ Nach der Generalversammlung müssen Statutenänderungen der Polizei angezeigt we
 
 * dieses Repo klonen
 * pandoc installieren
-* Zum Beispiel: <code>pandoc Metalab_statuten.md -V geometry:"a4paper,top=1.9cm,bottom=1.9cm,left=1.8cm,right=1.8cm" -o Metalab_statuten.pdf</code>
+* Zum Beispiel: <code>pandoc Metalab_statuten.md Metalab_statuten_anhang_1.md -V geometry:"a4paper,top=1.9cm,bottom=1.9cm,left=1.8cm,right=1.8cm" -o Metalab_statuten.pdf</code>
 
 
